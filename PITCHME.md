@@ -79,6 +79,18 @@ Note: В этом году у нас появился graylog, думаю все
 
 ---
 
+## Gitlab
+
+- Пятница или четверг?
+- Время коммитов
+- Более 10К коммитов
+
++++?image=assets/images/chart-ap.png&size=auto 100%
++++?image=assets/images/chart-sq-api.png&size=auto 100%
++++?image=assets/images/chart-sq-front.png&size=auto 100%
++++?image=assets/images/chart-ap-android.png&size=auto 100%
++++?image=assets/images/chart-sq-android.png&size=auto 100%
+
 ## Тюнинг
 
 ![Тюнинг](assets/images/db.png)
