@@ -29,9 +29,7 @@ Note: В этом году у нас появился graylog, думаю все
 
 +++?image=assets/images/graylog.png&size=auto 100%
 
-+++ 
-
-![ReportPortal](assets/images/graylog.png)
++++?image=assets/images/reportportal.jpg&size=auto 100%
 
 ---
 
@@ -91,6 +89,35 @@ Note: В этом году у нас появился graylog, думаю все
 +++?image=assets/images/chart-ap-android.png&size=auto 100%
 +++?image=assets/images/chart-sq-android.png&size=auto 100%
 
-## Тюнинг
+---
 
-![Тюнинг](assets/images/db.png)
+## Планы
+
+- Активные продажи
+- SQ
+- NambaPay
+- Астана-1
+
+---
+
+## Цели
+
+- Получить стабильный приток денег
+- Создать отдел службы поддержки
+- Реорганизовать отдел бизнес аналитики
+- Расширить отдел тестирования
+- Построить облако
+
+---
+
+## Люди
+
+- Уходит Акбота
+- Начинает работу Тимур
+- Айдар
+
+---
+
+## Поздравляю всех с новым годом!
+
+![Jira2017](assets/images/sticker.png)
