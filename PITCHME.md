@@ -29,9 +29,7 @@ Note: В этом году у нас появился graylog, думаю все
 
 +++?image=assets/images/graylog.png&size=auto 100%
 
-+++ 
-
-![ReportPortal](assets/images/graylog.png)
++++?image=assets/images/reportportal.jpg&size=auto 100%
 
 ---
 
