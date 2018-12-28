@@ -48,6 +48,35 @@ Note: В этом году у нас появился graylog, думаю все
 ![Jira2017](assets/images/jira2017.png)
 ![Jira2018](assets/images/jira2018.png)
 
++++
+
+## Git
+
+![git-allpay-17](assets/images/git-allpay-17.png)
+![git-allpay-18](assets/images/git-allpay-18.png)
+
++++
+
+## Git SQ/VKO
+
+![git-sq](assets/images/git-sq.png)
+![git-vko](assets/images/git-vko.png)
+
++++
+
+## Git SQ/VKO
+
+![git-sq-front](assets/images/git-sq-front.png)
+![git-vko-front](assets/images/git-vko-front.png)
+
+
++++
+
+## Git Android SQ/AP
+
+![git-sq-front](assets/images/git-android-ap.png)
+![git-vko-front](assets/images/git-android-sq.png)
+
 ---
 
 ## Тюнинг
