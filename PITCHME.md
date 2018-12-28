@@ -46,6 +46,11 @@ Note: В этом году у нас появился graylog, думаю все
 ![Jira2017](assets/images/jira2017.png)
 ![Jira2018](assets/images/jira2018.png)
 
+## Jira и ЧЧ
+
+- Договор
+- Оценка времени проектов
+
 +++
 
 ## Git
