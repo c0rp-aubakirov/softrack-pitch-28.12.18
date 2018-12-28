@@ -120,4 +120,4 @@ Note: В этом году у нас появился graylog, думаю все
 
 ## Поздравляю всех с новым годом!
 
-![Sticker](assets/images/sticker.png)
+![Sticker](assets/images/present.png)
