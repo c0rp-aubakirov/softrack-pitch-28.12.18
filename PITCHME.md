@@ -15,6 +15,8 @@
 - Прототип Смарткала и NambaPay
 - Переезд в allpay PG
 
+---
+
 ## Итоги. IT
 
 - Graylog
@@ -27,16 +29,11 @@ Note: В этом году у нас появился graylog, думаю все
 
 +++ 
 
-## Graylog
-
 ![Graylog](assets/images/graylog.png)
 
 +++ 
 
-## ReportPortal
-
 ![ReportPortal](assets/images/graylog.png)
-
 
 ---
 
